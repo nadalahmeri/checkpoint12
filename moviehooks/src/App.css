@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding: 20px;
+  margin: 20px;
+
+}
+.cardimg {
+  height: 320px;
+}
